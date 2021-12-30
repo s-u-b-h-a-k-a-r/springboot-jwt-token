@@ -1,6 +1,6 @@
 spring:
   application:
-    name: order-api
+    name: jwt-authentication
   jpa:
     show-sql: true
     hibernate:
